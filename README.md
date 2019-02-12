@@ -8,4 +8,4 @@ To use these flash cards:
 
 I'm open to suggestions for improving these but please note that I'm new to react.js and not a graphic designer. :)
 
-**Please note: this is based upon the nice work of Matthew Greenberg https://codepen.io/mattgreenberg/pen/ggOpOr **
+**Please note: this is based upon the nice work of Matthew Greenberg** https://codepen.io/mattgreenberg/pen/ggOpOr 
